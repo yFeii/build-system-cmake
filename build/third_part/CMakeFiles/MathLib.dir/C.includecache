@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../third_part/build-system-lib/include/add.h
+stdio.h
+-
+
+/Users/didi/demo/build-systems/cmake/third_part/build-system-lib/add/add.c
+add.h
+/Users/didi/demo/build-systems/cmake/third_part/build-system-lib/add/add.h
+

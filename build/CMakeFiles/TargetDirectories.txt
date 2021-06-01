@@ -1,0 +1,6 @@
+/Users/didi/demo/build-systems/cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/didi/demo/build-systems/cmake/build/CMakeFiles/edit_cache.dir
+/Users/didi/demo/build-systems/cmake/build/CMakeFiles/main.dir
+/Users/didi/demo/build-systems/cmake/build/third_part/CMakeFiles/rebuild_cache.dir
+/Users/didi/demo/build-systems/cmake/build/third_part/CMakeFiles/edit_cache.dir
+/Users/didi/demo/build-systems/cmake/build/third_part/CMakeFiles/MathLib.dir
